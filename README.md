@@ -26,21 +26,32 @@
 
 ## 👾 About Me
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name       = "Abdur Rahman Rafed"
-        self.role       = "Aspiring Data Analyst"
-        self.university = "University of Dhaka"
-        self.degree     = "BBA in Management Information Systems (MIS)"
-        self.location   = "Dhaka, Bangladesh 🇧🇩"
-        self.interests  = ["Data Analysis", "BI Analytics", "Data Visualization"]
+# < DATA ANALYST.EXE />
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's turn data into decisions 📊")
+```
+NAME: Abdur Rahman Rafed
+ROLE: Aspiring Data Analyst
 
-me = DataAnalyst()
-me.say_hi()
+EDUCATION:
+  UNIVERSITY: University of Dhaka
+  DEGREE: BBA in Management Information Systems (MIS)
+
+TECH_STACK:
+  - Power BI
+  - Excel
+  - SQL
+  - Python
+
+CURRENT_MISSION:
+  - Building insightful dashboards
+  - Learning advanced analytics
+  - Solving real-world business problems
+  - Growing as a BI professional
+
+STATUS: ACTIVE 🟢
+
+OUTPUT:
+  "Let's turn data into decisions 📊"
 ```
 
 ---
