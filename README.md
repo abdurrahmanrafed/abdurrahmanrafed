@@ -84,28 +84,6 @@ me.say_hi()
 <!--                  GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&border_color=00FFFF&title_color=00FFFF&icon_color=FF69B4&text_color=FFFFFF&bg_color=0d1117" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" height="165" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&border=00FFFF&ring=FF69B4&fire=FF69B4&currStreakLabel=00FFFF)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONNECT                                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🌐 Connect With Me
 
 <div align="center">
