@@ -25,9 +25,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 👾 About Me
-
-# < DATA ANALYST.EXE />
-
 ```
 NAME: Abdur Rahman Rafed
 ROLE: Aspiring Data Analyst
@@ -53,12 +50,6 @@ STATUS: ACTIVE 🟢
 OUTPUT:
   "Let's turn data into decisions 📊"
 ```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  SKILL BADGES                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🌐 Connect With Me
 
