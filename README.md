@@ -25,8 +25,8 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 👾 About Me
-```
-\`\`\`yaml
+
+```yaml
 NAME: Abdur Rahman Rafed
 ROLE: 📊 Aspiring Data Analyst
 
@@ -50,7 +50,7 @@ CURRENT_MISSION:
 STATUS: 🟢 ACTIVE
 
 OUTPUT: "Let's turn data into decisions 📊"
-\`\`\`
+```
 
 <div align="center">
 
@@ -60,7 +60,8 @@ OUTPUT: "Let's turn data into decisions 📊"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-```
+
+---
 
 ## 🌐 Connect With Me
 
