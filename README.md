@@ -78,7 +78,3 @@ STATUS: 🟢 ACTIVE
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontColor=00FFFF)
 
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FFFF&style=flat-square&label=Profile+Views" />
-</div>
