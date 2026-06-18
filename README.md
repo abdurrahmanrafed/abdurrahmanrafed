@@ -35,21 +35,15 @@ EDUCATION:
   DEGREE: BBA in Management Information Systems (MIS)
   LOCATION: Dhaka, Bangladesh 🇧🇩
 
-TECH_STACK:
-  - 📈 Power BI
-  - 📑 Excel
-  - 🗄️ SQL
-  - 🐍 Python
-
 CURRENT_MISSION:
-  - 🛠️  Building insightful dashboards
-  - 📚  Learning advanced analytics
-  - 🧩  Solving real-world business problems
-  - 🌱  Growing as a BI professional
+  -   Building insightful dashboards
+  -   Learning advanced analytics
+  -   Solving real-world business problems
+  -   Growing as a BI professional
 
 STATUS: 🟢 ACTIVE
 
-OUTPUT: "Let's turn data into decisions 📊"
+ "Let's turn data into decisions 📊"
 ```
 
 <div align="center">
